@@ -1,0 +1,29 @@
+Land cover types,Level,Value
+NWI marine wetlands,Low,90367611
+Salt marsh,Low,5836741
+Freshwater wetland,Low,7416748
+City parks,Low,249158682
+Beach,Low,1748766
+Freshwater,Low,5632155
+Oyster bed,Low,609367
+Estuary,Low,1775730
+Tidal flat,Low,154979
+Forest,Low,232570496
+Grassland/Openland,Low,5588362
+Core habitats,Low,2566369
+Coastal waters,Low,101783372
+Total,Low,705209378
+NWI marine wetlands,High,596715671
+Salt marsh,High,38541188
+Freshwater wetland,High,12222223
+City parks,High,498317363
+Beach,High,7527883
+Freshwater,High,36077699
+Oyster bed,High,5499626
+Estuary,High,3826203
+Tidal flat,High,258298
+Forest,High,748950958
+Grassland/Openland,High,9447291
+Core habitats,High,12831846
+Coastal waters,High,157984654
+Total,High,2128200903
